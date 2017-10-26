@@ -1,7 +1,7 @@
 # Discord Server Landing Page
 *(Red-DiscordBot-inspired)*
 
->There are never enough landing pages, huh?
+>There are never enough landing pages, huh ?
 
 ## Support and get design sources!
 I'm creating these pages absolutely free of charge, and if you like them - [consider supporting me on Patreon!](https://patreon.com/orels1) You will also get a role on my discord server, as well as access to all the designs (and their sources) that I make.
